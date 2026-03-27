@@ -1,0 +1,49 @@
+New Employee Onboarding Guide
+HR Department
+Version: 4.2
+
+DAY 1 CHECKLIST
+===============
+Morning:
+  - Report to HR department at 9 AM
+  - Complete joining formalities
+  - Collect employee ID card
+  - Get laptop from IT department
+
+Afternoon:
+  - IT will setup your laptop
+  - Get company email credentials
+  - Setup VPN access
+  - Install required software
+
+DAY 2-5 CHECKLIST
+=================
+  - Meet your team members
+  - Setup all required tools
+  - Read project documentation
+  - Attend orientation session
+  - Complete compliance training
+
+TOOLS AND ACCESS
+================
+Email: mail.company.com
+VPN: vpn.company.com
+Project Management: jira.company.com
+Wiki/Documentation: confluence.company.com
+Chat: slack.company.com
+HR Portal: hr.company.com
+IT Helpdesk: helpdesk.company.com
+
+IMPORTANT CONTACTS
+==================
+HR Department: hr@company.com | Ext: 1001
+IT Helpdesk: it-support@company.com | Ext: 1002
+Security Team: security@company.com | Ext: 1003
+Your Manager: Check your offer letter
+
+FIRST MONTH GOALS
+=================
+Week 1: Setup and orientation
+Week 2: Learn team processes
+Week 3: Start first small task
+Week 4: Complete first project milestone

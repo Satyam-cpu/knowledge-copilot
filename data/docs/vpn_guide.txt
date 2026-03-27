@@ -1,0 +1,48 @@
+VPN Setup and Troubleshooting Guide
+Version: 1.5
+Last Updated: February 2026
+
+WHAT IS VPN?
+VPN (Virtual Private Network) allows you to securely
+access company resources from anywhere.
+
+SETUP INSTRUCTIONS
+==================
+Step 1: Download Cisco AnyConnect
+  - Go to: vpn.company.com/download
+  - Select your operating system
+  - Download and install
+
+Step 2: Configure AnyConnect
+  - Open Cisco AnyConnect
+  - Enter server: vpn.company.com
+  - Click Connect
+
+Step 3: Authentication
+  - Enter your company email
+  - Enter your password
+  - Enter MFA code from authenticator app
+  - Click OK
+
+TROUBLESHOOTING
+===============
+Problem 1: Cannot connect to VPN
+  Solution: Check internet connection first
+  Solution: Restart AnyConnect application
+  Solution: Try different network
+
+Problem 2: MFA code not working
+  Solution: Check time on your phone is correct
+  Solution: Re-sync authenticator app
+  Solution: Contact IT for MFA reset
+
+Problem 3: VPN connects but cannot access resources
+  Solution: Disconnect and reconnect VPN
+  Solution: Clear browser cache
+  Solution: Contact IT helpdesk
+
+CONTACT
+=======
+IT Helpdesk: 1800-IT-HELP
+Email: it-support@company.com
+Portal: helpdesk.company.com

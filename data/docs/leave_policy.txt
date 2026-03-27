@@ -1,0 +1,42 @@
+Leave and Attendance Policy
+HR Department
+Version: 2.0
+
+LEAVE TYPES
+===========
+1. Annual Leave:
+   - 18 days per year
+   - Carry forward: Maximum 5 days
+   - Apply minimum 2 days in advance
+
+2. Sick Leave:
+   - 10 days per year
+   - Medical certificate required for 3+ consecutive days
+   - Cannot be carried forward
+
+3. Emergency Leave:
+   - 3 days per year
+   - Call HR immediately: hr@company.com
+   - Submit application within 24 hours
+
+4. Work From Home:
+   - Maximum 2 days per week
+   - Manager approval required
+   - Must be available on all communication channels
+
+HOW TO APPLY LEAVE
+==================
+Step 1: Login to HR portal: hr.company.com
+Step 2: Click on Leave Management
+Step 3: Select leave type
+Step 4: Select dates
+Step 5: Add reason
+Step 6: Submit for approval
+Step 7: Manager approves within 2 working days
+
+ATTENDANCE RULES
+================
+- Office timing: 9 AM to 6 PM
+- Flexible timing: 8 AM to 8 PM (core hours 11-4)
+- Late coming: More than 3 times = warning
+- Half day: If leaving before 1 PM or arriving after 1 PM

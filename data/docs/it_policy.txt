@@ -1,0 +1,41 @@
+IT Security Policy Document
+Version: 2.1
+Last Updated: January 2026
+
+1. PASSWORD POLICY
+==================
+- Minimum length: 8 characters
+- Must contain: uppercase, lowercase, number, special character
+- Password expiry: Every 90 days
+- Password reset process:
+  Step 1: Go to Settings
+  Step 2: Click on Security
+  Step 3: Click Reset Password
+  Step 4: Enter new password twice
+  Step 5: Click Confirm
+- Never share password with anyone including IT staff
+- After 5 failed attempts account gets locked
+- To unlock account: Call IT helpdesk at 1800-IT-HELP
+
+2. EMAIL POLICY
+===============
+- Official email only for company work
+- Do not click suspicious links
+- Report phishing emails to security@company.com
+- Maximum attachment size: 25MB
+- Do not forward confidential emails outside company
+
+3. DEVICE POLICY
+================
+- Company laptop must not be used for personal work
+- Install only approved software
+- Lock screen when leaving desk
+- Report lost/stolen device immediately to IT
+- No external USB drives without IT approval
+
+4. SOFTWARE POLICY
+==================
+- Only IT approved software can be installed
+- Request new software: helpdesk.company.com/software-request
+- Pirated software is strictly prohibited
+- All software must be kept updated

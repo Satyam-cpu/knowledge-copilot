@@ -1,0 +1,62 @@
+Incident Response Standard Operating Procedure
+IT Operations Team
+Version: 3.0
+
+INCIDENT SEVERITY LEVELS
+=========================
+P0 - Critical:
+  - Complete system outage
+  - Data breach detected
+  - Response time: Immediate (within 15 minutes)
+  - Escalate to: CTO + Security Team
+
+P1 - High:
+  - Major feature not working
+  - More than 100 users affected
+  - Response time: Within 1 hour
+  - Escalate to: Engineering Lead
+
+P2 - Medium:
+  - Minor feature issue
+  - Less than 100 users affected
+  - Response time: Within 4 hours
+  - Escalate to: Team Lead
+
+P3 - Low:
+  - Cosmetic issues
+  - Single user affected
+  - Response time: Within 24 hours
+  - Escalate to: Support Team
+
+INCIDENT RESPONSE STEPS
+========================
+Step 1: Detect and Report
+  - User reports issue via helpdesk.company.com
+  - IT team acknowledges within SLA time
+
+Step 2: Assess Severity
+  - Determine P0/P1/P2/P3 level
+  - Assign to correct team
+
+Step 3: Investigate
+  - Check logs
+  - Identify root cause
+  - Document findings
+
+Step 4: Resolve
+  - Apply fix
+  - Test solution
+  - Communicate to affected users
+
+Step 5: Post Mortem
+  - Document what happened
+  - Document root cause
+  - Document prevention steps
+  - Share with team within 48 hours
+
+WAR ROOM PROCESS (P0 only)
+===========================
+  - Create incident Slack channel
+  - Add all relevant engineers
+  - Update status every 15 minutes
+  - Communicate to management every 30 minutes

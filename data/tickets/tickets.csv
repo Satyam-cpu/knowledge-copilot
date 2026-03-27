@@ -1,0 +1,11 @@
+id,title,description,category,resolution,status
+TK-001,Password Reset,User forgot their password and cannot login,Access Management,Reset password via Settings > Security > Reset Password,Resolved
+TK-002,VPN Not Connecting,User cannot connect to company VPN from home,Network,Reinstalled Cisco AnyConnect and reconfigured server URL,Resolved
+TK-003,Laptop Screen Broken,Employee laptop screen cracked after fall,Hardware,Replaced laptop screen took 2 days,Resolved
+TK-004,Cannot Access Jira,New employee cannot login to Jira,Access Management,Created Jira account and sent credentials via email,Resolved
+TK-005,Slow Internet,Office internet very slow affecting work,Network,Reset network switches on floor 3 fixed the issue,Resolved
+TK-006,Email Not Working,Cannot send or receive emails,Email,Reconfigured Outlook email settings and cleared cache,Resolved
+TK-007,MFA Not Working,Authenticator app not generating correct codes,Access Management,Re-synced authenticator app time settings,Resolved
+TK-008,Software Installation,Need Python installed on laptop,Software,Installed Python 3.11 with IT approval,Resolved
+TK-009,Data Backup,Important files accidentally deleted,Data,Restored files from last night backup,Resolved
+TK-010,Printer Not Working,Office printer not connecting to laptop,Hardware,Updated printer drivers and reconnected via IT portal,Resolved
