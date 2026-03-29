@@ -7,26 +7,27 @@ langchain-groq==0.2.0
 
 # ── LLM & EMBEDDINGS
 groq==0.37.1
-sentence-transformers==5.3.0
-transformers==5.4.0
-torch==2.11.0
-tokenizers==0.22.2
+sentence-transformers==3.0.1
+transformers==4.40.0
+torch==2.2.2
+torchvision==0.17.2
+tokenizers==0.19.1
 
 # ── VECTOR DATABASE
-chromadb==1.5.5
+chromadb==0.5.0
 
 # ── DOCUMENT LOADING
-pypdf==5.4.0
+pypdf==4.2.0
 
 # ── DATA HANDLING
-pandas==3.0.1
+pandas==2.2.2
 numpy==1.26.4
 
 # ── WEB UI
-streamlit==1.55.0
+streamlit==1.35.0
 
 # ── UTILITIES
-python-dotenv==1.2.2
-requests==2.33.0
-pydantic==2.12.5
-tqdm==4.67.3
+python-dotenv==1.0.1
+requests==2.31.0
+pydantic==2.7.1
+tqdm==4.66.4
